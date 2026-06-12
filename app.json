@@ -1,0 +1,16 @@
+{
+  "project_name": "IntelliResearch-AI",
+  "description": "AI-powered Research Agent using IBM watsonx AI, IBM Granite Models, Langflow, and IBM Cloud Lite Services.",
+  "domain": "Artificial Intelligence / NLP / Research Automation",
+  "technologies_used": [
+    "Langflow",
+    "IBM watsonx.ai",
+    "IBM Granite Model",
+    "IBM Cloud Lite Services",
+    "Python",
+    "APIs"
+  ],
+  "project_type": "Research Agent",
+  "developer": "A Keerthana",
+  "github_repository": "https://github.com/keerthanareddyyy/IntelliResearch-AI"
+}

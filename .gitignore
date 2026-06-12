@@ -1,0 +1,46 @@
+# Environment
+.env
+.env.local
+.env.*.local
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# IBM / API Keys
+credentials.json
+ibm_credentials.env
+
+# Node (for frontend if any)
+node_modules/
+npm-debug.log*
